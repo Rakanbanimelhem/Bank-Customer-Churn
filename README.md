@@ -17,7 +17,7 @@
         - Data Variance
 ### 05. Select the Featurs
 ### 06. Data Pre-Processing
-        -  Drop Variables 
+        - Drop Variables 
         - Convert Data Type
         - Missing Value
 ### 07. Exploratory Data Analysis
